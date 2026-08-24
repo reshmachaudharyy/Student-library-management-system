@@ -38,6 +38,10 @@ As documented in the project report (Chapter 6 & 9):
 ## Team
 Bebo Rajbahak, Aasha, Prashna, Reshma — CSE 220, Summer 2026, IAU
 
+## Requirements
+
+The system requires Node.js and npm to install dependencies and run the application. The required project packages are listed in `package.json`.
+
 ## Project documentation
 - `requirements/` — functional, non-functional, stakeholders, techniques
 - `design/` — UML diagrams (use case, class, sequence, activity)
